@@ -5,6 +5,11 @@ A comprehensive hotel booking system developed using Spring Boot. This applicati
 
 https://hotelbooking-liard.vercel.app
 
+### Default Accounts
+For testing purposes, you can use the following admin account:
+- **Email**: `admin1@gmail.com`  
+- **Password**: `admin1`  
+
 **Backend Repository**: [Hotel Booking Backend](https://github.com/AndyBk1202/HotelBooking)
 
 ---
